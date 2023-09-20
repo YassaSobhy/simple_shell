@@ -79,7 +79,7 @@ int srch_bltin(info_t *guid)
 
 /**
  * fcmd - finds a command in PATH
- * @st: the parameter & return info struct
+ * @info: the parameter & return info struct
  *
  * Return: void
  */
